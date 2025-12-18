@@ -1,0 +1,9 @@
+# Ignore build artifacts
+backend/target
+
+# Ignore git
+.git
+
+# Ignore IDE files
+.vscode
+.idea
