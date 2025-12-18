@@ -15,9 +15,8 @@ Thumbs.db
 .idea/
 *.iml
 
-# Docker
-Dockerfile
-.dockerignore
+# Docker build artifacts
+**/target/
 
 # Others
 *.class
